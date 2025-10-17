@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "serve": "npx serve -s dist",
-    "start": "serve -s dist -l 3000"
+    "start": "serve -s dist -l 3000 --single"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
